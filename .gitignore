@@ -1,0 +1,9 @@
+# Ignorar logs gerados pelo LaTeX
+*.aux
+*.log
+*.run.xml
+
+# Ignorar logs gerados pelo BibLaTeX
+*.bbl
+*.bcf
+*.blg
