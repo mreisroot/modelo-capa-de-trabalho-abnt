@@ -12,11 +12,11 @@ Sugiro que dê um fork deste projeto para atender às suas necessidades caso est
 
 1. Faça uma cópia deste repositório para o seu computador:
 
-`git clone https://github.com/mg-reis/modelo-capa-de-trabalho.git`
+`git clone https://github.com/mg-reis/modelo-capa-de-trabalho-abnt.git`
 
 ou 
 
-`git clone https://gitlab.com/mg-reis/modelo-capa-de-trabalho.git`
+`git clone https://gitlab.com/mg-reis/modelo-capa-de-trabalho-abnt.git`
 
 2. A partir do arquivo **modelo-capa.tex**, você pode copiá-lo e alterá-lo para cada trabalho que for fazer, e ir adaptando conforme o nome da instituição em que estuda, o título da sua graduação, seu nome, nome do professor, nome da disciplina e do trabalho.
 
