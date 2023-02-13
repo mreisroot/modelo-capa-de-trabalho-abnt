@@ -12,13 +12,13 @@ Sugiro que dê um fork deste projeto para atender às suas necessidades caso est
 
 1. Faça uma cópia deste repositório para o seu computador:
 
-`git clone https://github.com/mg-reis/modelo-at-tp.git`
+`git clone https://github.com/mg-reis/modelo-capa-de-trabalho.git`
 
 ou 
 
-`git clone https://gitlab.com/mg-reis/modelo-at-tp.git`
+`git clone https://gitlab.com/mg-reis/modelo-capa-de-trabalho.git`
 
-2. A partir do arquivo **modelo-at-tp.tex**, você pode fazer uma cópia para cada trabalho que for fazer, e ir adaptando conforme o título da sua graduação, bloco, seu nome, nome do professor, nome da disciplina e do trabalho.
+2. A partir do arquivo **modelo-capa.tex**, você pode fazer uma cópia para cada trabalho que for fazer, e ir adaptando conforme o título da sua graduação, bloco, seu nome, nome do professor, nome da disciplina e do trabalho.
 
 3. Quando o seu trabalho estiver pronto, compile o arquivo 
 
@@ -30,7 +30,7 @@ Agora, caso esteja utilizando a linha de comando, digite:
 
 Para compilar o modelo de capa:
 
-`pdflatex modelo-at-tp.tex`
+`pdflatex modelo-capa.tex`
 
 Para compilar um trabalho que fez:
 
