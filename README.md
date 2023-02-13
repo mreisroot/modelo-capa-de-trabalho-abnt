@@ -18,7 +18,7 @@ ou
 
 `git clone https://gitlab.com/mg-reis/modelo-capa-de-trabalho.git`
 
-2. A partir do arquivo **modelo-capa.tex**, você pode fazer uma cópia para cada trabalho que for fazer, e ir adaptando conforme o título da sua graduação, bloco, seu nome, nome do professor, nome da disciplina e do trabalho.
+2. A partir do arquivo **modelo-capa.tex**, você pode copiá-lo e alterá-lo para cada trabalho que for fazer, e ir adaptando conforme o nome da instituição em que estuda, o título da sua graduação, seu nome, nome do professor, nome da disciplina e do trabalho.
 
 3. Quando o seu trabalho estiver pronto, compile o arquivo 
 
