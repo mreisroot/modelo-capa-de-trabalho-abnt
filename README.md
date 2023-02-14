@@ -6,7 +6,7 @@ O resultado final do código contido neste projeto é uma capa de trabalho que e
 
 Claro, é possível adaptar esse código para criar capas para outras instituições de ensino. Este projeto é apenas um exemplo. Você pode alterar de acordo com a instituição em que estuda.
 
-Sugiro que dê um fork deste projeto para atender às suas necessidades caso estude em outra instituição.
+Sugiro que dê um fork deste projeto para atender as suas necessidades caso estude em outra instituição.
 
 ## Como utilizar este projeto
 
